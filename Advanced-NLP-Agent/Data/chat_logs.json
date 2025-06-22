@@ -1,0 +1,10 @@
+[
+  {
+    "dialogue": "Customer: I can't access my account\nAgent: Let me help you with the login issue.",
+    "intent": "account_access"
+  },
+  {
+    "dialogue": "Customer: My payment failed again\nAgent: I'll look into the payment gateway.",
+    "intent": "payment_issue"
+  }
+]
